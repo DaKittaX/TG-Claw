@@ -291,7 +291,7 @@
 
 /obj/structure/wreck/trash/engine
 	name = "Engine"
-	desc = "If only you picked the automechanics perk."
+	desc = "An old engine, it's rusty and stripped of most of it's essential parts."
 	icon = 'icons/fallout/trash.dmi'
 	icon_state = "engine"
 	bound_width = 32
